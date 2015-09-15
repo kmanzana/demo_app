@@ -1,4 +1,5 @@
-test
+another change  
+test  
 I built the landing page
 == Welcome to Rails
 
